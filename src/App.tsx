@@ -8,6 +8,7 @@ function App() {
   
   return (
     <div style={ {display: 'flex'}}>
+    <h1>MUSICFAN PLAYER</h1>
     <TrackList onTrackSelect = { handleTrackSelect } selectedTrackId = {trackId}/>
     <TrackDetail trackId = {trackId}/>  
     </div>
