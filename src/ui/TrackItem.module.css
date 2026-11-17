@@ -1,0 +1,9 @@
+.track{
+    border: 5px solid red;
+    border-radius: 35px;
+}
+
+.track.selected{
+
+border-color: green;
+}

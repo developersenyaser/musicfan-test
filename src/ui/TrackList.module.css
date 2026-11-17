@@ -1,0 +1,10 @@
+.trackList{
+    border: 2px solid black;
+}
+
+.tracks{
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    list-style-type: none;
+}
